@@ -60,3 +60,6 @@ Player 2 Total Score: 10
 
 ## 📜 License
 This project is free to use.
+
+## 👩‍💻 Author
+Diksha Gade 
